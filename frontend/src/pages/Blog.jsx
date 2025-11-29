@@ -1,0 +1,1 @@
+import React from 'react'; function Blog() { return (<main className="py-4"><div className="container mx-auto"><h1 className="text-3xl font-bold">Blog</h1><p className="text-lg text-gray-600">This is the blog page of our e-commerce platform.</p></div></main>); } export default Blog;
