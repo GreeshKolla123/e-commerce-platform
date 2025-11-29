@@ -1,0 +1,1 @@
+.container { max-width: 1200px; margin: 0 auto; padding: 0 20px; } .hero { background-image: url('src/images/hero.jpg'); background-size: cover; background-position: center; height: 100vh; display: flex; justify-content: center; align-items: center; color: #fff; }
